@@ -4,7 +4,7 @@
 
 # 🌿 Laboratory Work 5
 ### Comparative Analysis of Pre-trained CNN Models for Custom Image Classification
-Google Colab Link: [https://colab.research.google.com/drive/14_zOG_6C6mTOnDLna9cgZ4mowlrif4Yl?authuser=1#scrollTo=8YNC8emSq2sR]
+Google Colab Link: https://colab.research.google.com/drive/14_zOG_6C6mTOnDLna9cgZ4mowlrif4Yl?authuser=1#scrollTo=8YNC8emSq2sR
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
