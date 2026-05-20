@@ -7,6 +7,8 @@
 Google Colab Link: https://colab.research.google.com/drive/14_zOG_6C6mTOnDLna9cgZ4mowlrif4Yl?authuser=1#scrollTo=8YNC8emSq2sR
 <br>
 
+Google Drive Keras link: https://drive.google.com/drive/folders/1k9p8YGgCZIq_HJXg-gROMkMFoYfqaNhI?usp=sharing
+
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-Transfer%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white)
